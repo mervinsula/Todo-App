@@ -1,0 +1,7 @@
+export default function AnotherTest() {
+
+  return (
+      <div>Another Test</div>
+  )
+
+}
